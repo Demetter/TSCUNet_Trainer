@@ -1,8 +1,6 @@
 
     Python Train_TSCUNet.py
 
-
-
     Python Train_TSCUNet.py --Checkpoint Dataset/Models/Checkpoint_Epoch.py
 
 
